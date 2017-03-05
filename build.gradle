@@ -25,6 +25,6 @@ allprojects {
         compileOnly 'org.projectlombok:lombok:+'
 
         testCompile 'org.junit.jupiter:junit-jupiter-api:+',
-                'org.hamcrest:java-hamcrest:+'
+                    'org.hamcrest:java-hamcrest:+'
     }
 }
