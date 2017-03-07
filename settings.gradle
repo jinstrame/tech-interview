@@ -1,4 +1,5 @@
 rootProject.name = 'tech-interview'
 
 include 'recursive-bubble-sort',
-        'hash-map'
+        'hash-map',
+        'hash-map-implementation'
