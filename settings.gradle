@@ -5,4 +5,5 @@ include 'recursive-bubble-sort',
         'hash-map-implementation',
         'tree',
         'bst',
-        'two-three-tree'
+        'two-three-tree',
+        'heap'
